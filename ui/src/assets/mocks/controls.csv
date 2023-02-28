@@ -1,0 +1,10 @@
+numid=1,iface=MIXER,name='00. 31 Hz Playback Volume'
+numid=2,iface=MIXER,name='01. 63 Hz Playback Volume',device=1
+numid=3,iface=MIXER,name='02. 125 Hz Playback Volume',device=2
+numid=4,iface=MIXER,name='03. 250 Hz Playback Volume',device=3
+numid=5,iface=MIXER,name='04. 500 Hz Playback Volume',device=4
+numid=6,iface=MIXER,name='05. 1 kHz Playback Volume',device=5
+numid=7,iface=MIXER,name='06. 2 kHz Playback Volume',device=6
+numid=8,iface=MIXER,name='07. 4 kHz Playback Volume',device=7
+numid=9,iface=MIXER,name='08. 8 kHz Playback Volume',device=8
+numid=10,iface=MIXER,name='09. 16 kHz Playback Volume',device=9
